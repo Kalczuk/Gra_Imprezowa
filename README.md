@@ -6,7 +6,7 @@
 
 ## 📖 O projekcie
 
-**Gra Imprezowa** (wewnętrzna nazwa kodowa: *alkochinczyk*) to webowa, interaktywna adaptacja klasycznej gry planszowej „Chińczyk” (Ludo), wzbogacona o mechanikę kart wyzwań, zadań specjalnych oraz dynamicznych wydarzeń towarzyskich. Projekt został stworzony z myślą o integracji ze znajomymi – zarówno przy jednym urządzeniu, jak i na odległość przez internet.
+**Gra Imprezowa** (wewnętrzna nazwa kodowa: *alkochinczyk*) to webowa, interaktywna adaptacja klasycznej gry planszowej „Chińczyk”, wzbogacona o mechanikę kart wyzwań, zadań specjalnych oraz dynamicznych wydarzeń towarzyskich. Projekt został stworzony z myślą o integracji ze znajomymi – zarówno przy jednym urządzeniu, jak i na odległość przez internet.
 
 Głównym celem technicznym projektu było zbudowanie wieloplatformowej aplikacji w technologii **Flutter Web**, zintegrowanej z bazą danych czasu rzeczywistego (**Cloud Firestore**) oraz zautomatyzowanym procesem wdrożeniowym (**CI/CD**).
 
