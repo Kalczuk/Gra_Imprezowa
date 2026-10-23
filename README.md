@@ -45,11 +45,3 @@ Projekt znajduje się obecnie w fazie **MVP (Minimum Viable Product)** i służy
 
 ---
 
-## 💻 Jak uruchomić projekt lokalnie?
-
-Jeśli chcesz przetestować kod na własnym komputerze lub wprowadzić w nim poprawki:
-
-1. **Sklonuj repozytorium:**
-   ```bash
-   git clone [https://github.com/TWOJ_NICK_GITHUB/alkochinczyk.git](https://github.com/TWOJ_NICK_GITHUB/alkochinczyk.git)
-   cd alkochinczyk
